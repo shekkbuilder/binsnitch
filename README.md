@@ -73,6 +73,15 @@ This triggered us to write a simple tool that could be used to detect this.
 
 binsnitch can also be used during malware analysis, to detect silent changes to executable files (i.e. replacement of a trusted Windows executable by a trojaned version).
 
+### References
+
+Similar tools:
+- Microsoft File Checksum Integrity Verifier - https://www.microsoft.com/en-us/download/details.aspx?id=11533
+- Syscheck in OSSEC - http://ossec-docs.readthedocs.io/en/latest/manual/syscheck/
+
+Both these tools are either OS-dependent or require installation of libraries / tools. 
+``binsnitch.py`` aims at being dependent on ``python`` and ``file`` only.
+
 ### Community
 
 Bug reports and feature requests are welcome in the issues tab!
