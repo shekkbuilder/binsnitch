@@ -88,5 +88,5 @@ Bug reports and feature requests are welcome in the issues tab!
 
 Contact us: research@nviso.be.
 
-binsnitch is developed and maintained by Daan Raman.
+binsnitch is developed and maintained by Daan Raman ([@daanraman](https://twitter.com/daanraman)).
 
